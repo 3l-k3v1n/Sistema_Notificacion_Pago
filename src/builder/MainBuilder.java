@@ -1,4 +1,4 @@
 package builder;
 
-public class Main {
+public class MainBuilder {
 }
