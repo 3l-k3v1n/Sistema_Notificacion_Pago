@@ -23,7 +23,6 @@ public class ConfiguracionSistema {
         return instancia;
     }
 
-    // Getters y setters
     public String getHost() { return host; }
     public void setHost(String host) { this.host = host; }
 
