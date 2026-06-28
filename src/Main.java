@@ -21,7 +21,7 @@ public class Main {
     MainAdapter.main(args);
 
     System.out.println("\n========================================");
-    System.out.println("   FIN DE LA DEMOSTRACIÓN");
+    System.out.println("   FIN DE LA DEMOSTRACION");
     System.out.println("========================================");
   }
 }
